@@ -51,7 +51,7 @@ git reset --hard $TC_COMMIT_HASH
 git commit --allow-empty -m "Hötorget"
 git commit --allow-empty -m "Rådmansgatan"
 git commit --allow-empty -m "Odenplan"
-git commit --allow-empty -m "S:t Eriksplann"
+git commit --allow-empty -m "S:t Eriksplan"
 
 # Build Fridhemsplan
 git merge blue_line_t10 --no-ff --allow-unrelated-histories --no-commit
