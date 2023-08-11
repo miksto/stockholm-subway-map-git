@@ -71,3 +71,5 @@ git reset --hard green_line_t17
 
 git checkout green_line_t19
 git reset --hard green_line_t17
+
+git checkout main
